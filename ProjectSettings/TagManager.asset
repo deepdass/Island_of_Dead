@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  - enemy
+  - ground
+  - wall
+  - water
+  - GM
+  - ghost
+  - ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backgroundcld
+    uniqueID: 2153281875
+    locked: 0
+  - name: lower props
+    uniqueID: 516571903
+    locked: 0
+  - name: coin
+    uniqueID: 1587004087
+    locked: 0
+  - name: enemys
+    uniqueID: 2973631931
+    locked: 0
+  - name: player
+    uniqueID: 693195773
+    locked: 0
+  - name: upper props
+    uniqueID: 2258645737
+    locked: 0
+  - name: water
+    uniqueID: 1571352901
+    locked: 0
+  - name: ground
+    uniqueID: 485138361
+    locked: 0
